@@ -1,5 +1,56 @@
 {
-"d":"sdg"
-},{
-"sgd":"dfh"
+posts: [
+{
+id: "mng_school",
+ms_id: 3
+},
+{
+id: "mng_school1",
+ms_id: 5
+},
+{
+id: "mng_school2",
+ms_id: 2
+},
+{
+id: "mng_school3",
+ms_id: 1
+},
+{
+id: "mng_school4",
+ms_id: 2
+},
+{
+id: "mng_school5",
+ms_id: 0
+},
+{
+id: "mng_school6",
+ms_id: 2
+},
+{
+id: "mng_school7",
+ms_id: 0
+},
+{
+id: "mng_school8",
+ms_id: 1
+},
+{
+id: "mng_school9",
+ms_id: 0
+},
+{
+id: "mng_school10",
+ms_id: 0
+},
+{
+id: "mng_school11",
+ms_id: 6
+},
+{
+id: "mng_school12",
+ms_id: 0
+}
+]
 }
